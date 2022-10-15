@@ -35,6 +35,9 @@ body{
     cursor: pointer;
     opacity: 0.7;
 }
+.links li:hover{
+    opacity: 0.6;
+}
 
 .links img{
     display: flex;
